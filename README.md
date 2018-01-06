@@ -2,7 +2,7 @@
 
 ![](art/iTunesU.jpg?raw=true)
 
-This repo contains my lecture notes and projects from Paul Hegarty's classic [CS 193p iPhone Application Development course](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/) offered by The School of Engineering at Stanford.
+This repo contains my lecture notes and projects from Paul Hegarty's classic [CS 193p iPhone Application Development course](http://web.stanford.edu/class/cs193p/cgi-bin/drupal/) offered by The School of Engineering at Stanford and is available on [iTunes-U](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316).
 
 This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
@@ -15,7 +15,7 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
 Lecture | Slides | Code | Video | Date
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 1. | [Course Overview: Intro to iOS 11, Xcode 9, and Swift 4](https://drive.google.com/open?id=13hhB7smc4Z8JEOtzukHU9dV3u6z7jqr8) | [![](art/Xcode.png?raw=true)](./democode/Lecture_1_concentration) | [![](art/play.png?raw=true)](https://youtu.be/71pyOB4TPRE?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
-| 2. | [MVC: Concentration Demo Continued](https://drive.google.com/open?id=16jrukJGDRR-Gve1A5dZMXaPM0UhlLB3Z) | | [![](art/play.png?raw=true)](https://youtu.be/w7a79cx3UaY?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
+| 2. | [MVC: Concentration Demo Continued](https://drive.google.com/open?id=16jrukJGDRR-Gve1A5dZMXaPM0UhlLB3Z) | [![](art/Xcode.png?raw=true)](./democode/Lecture_2_concentration) | [![](art/play.png?raw=true)](https://youtu.be/w7a79cx3UaY?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
 | 3. | [Swift Programming Language](https://drive.google.com/open?id=1q9653aFt1nWU0DG1rzzmmcW0Yu1W28dQ) | | [![](art/play.png?raw=true)](https://youtu.be/ZbpjTPzf8x4?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
 | 4. | [More Swift](https://drive.google.com/open?id=1uip1sUSEIhw4xCjR6FC-C0lJpBVRNxGJ) | | [![](art/play.png?raw=true)](https://youtu.be/FU2V0YRQIOw?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
 | 5. | [Drawing](https://drive.google.com/open?id=1Jn0swH3SsuF037FO5vMM1Ll08Q2GEBNE) | | [![](art/play.png?raw=true)](https://youtu.be/h2hm2AtanRU?list=PLPA-ayBrweUzGFmkT_W65z64MoGnKRZMq) | Fall 2017
@@ -46,7 +46,7 @@ Reading  | Name
 | 2. | [Reading 2: Intro to Swift](https://drive.google.com/open?id=1QTJisCkQuGJCO3-2jH0KWQXnSY8Gnpf1)
 | 3. | [Reading 3: Finishing off Swift](https://drive.google.com/open?id=1VVOsiK2IgRGqKJZnIvFNtUb4Dwq6NCDJ)
 
-## Assinments
+## Assignments
 PS  | Name | Code
 | ------------- | ------------- | -------------
 | 1. | [Assignment 1: Concentration](https://drive.google.com/open?id=1u-b4agSQqKBROU5dTKryHz6nwdqDWS8G) |
