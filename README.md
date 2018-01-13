@@ -37,6 +37,7 @@ Sessions | Lecture | Video | Date
 | ------------- | ------------- | ------------- | -------------
 | 1. | Debugging and Xcode Tips and Tricks | [![](art/play.png?raw=true)](https://youtu.be/-UtIg4Lt7T8) | Fall 2017
 | 2. | Github and Source Control Workflow | [![](art/play.png?raw=true)](https://youtu.be/LvhXql24EOs) | Fall 2017
+| 3. | Instruments | [![](art/play.png?raw=true)](https://youtu.be/s_SOYcYBnGU) | Fall 2017
 
 ## Reading Assignments
 
