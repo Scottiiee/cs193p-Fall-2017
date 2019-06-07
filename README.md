@@ -7,9 +7,15 @@ This repo contains my lecture notes and projects from Paul Hegarty's classic [CS
 This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Apple Documents
-[Swift Programming Language (Swift 4.0.3)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
+[SWIFT.ORG](https://swift.org)
+- [Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
+- [Swift API Guidelines](https://swift.org/documentation/api-design-guidelines)
 
-[Swift API Guidelines](https://swift.org/documentation/api-design-guidelines)
+## Other Tutorials
+ [Lets Build That App](https://www.letsbuildthatapp.com) [![](art/play.png?raw=true)](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
+
+ [Code With Chris](https://codewithchris.com) [![](art/play.png?raw=true)](https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw)
+ - [The 7 Day App Action Plan](https://codewithchris.com/actionplan)
 
 ## Lectures
 Lecture | Slides | Code | Video | Date
@@ -52,7 +58,7 @@ PS  | Name | Code
 | ------------- | ------------- | -------------
 | 1. | [Assignment 1: Concentration](https://drive.google.com/open?id=1u-b4agSQqKBROU5dTKryHz6nwdqDWS8G) |
 | 2. | [Assignment 2: Set](https://drive.google.com/open?id=14bpF6U5yyGDFNXIiRtZRHJjxAJPyxFYT) |
-| 3. | [Assignment 3: Graphical Set](https://drive.google.com/open?id=1VVOsiK2IgRGqKJZnIvFNtUb4Dwq6NCDJ) |
+| 3. | [Assignment 3: Graphical Set](https://drive.google.com/open?id=1ILaX7nRZ80mke8-TStMo7HnnJGPxZhPE) |
 | 4. | [Assignment 4: Animated Set](https://drive.google.com/open?id=1XGeM7HnWYcnvSCcB5akpz6SQZXGE3zst) |
 | 5. | [Assignment 5: Image Gallery](https://drive.google.com/open?id=1l4TGfyKwhD3oxUOGxHql-9UCafE6nxXk) |
 | 6. | [Assignment 6: Persistent Image Gallery](https://drive.google.com/open?id=1gJaKfTrHZsrh1sezkzUav8KxvkJCxJGp) |
