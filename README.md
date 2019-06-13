@@ -7,6 +7,8 @@ This repo contains my lecture notes and projects from Paul Hegarty's classic [CS
 This course is described as being updated for iOS 11 and Swift 4, Tools, and APIs required to build applications for the iPhone and iPad platforms using the iOS SDK. The course covers user interface design for mobile devices and unique user interactions using multi-touch technologies. Object-oriented design using model-view-controller paradigm, memory management, the Swift programming language. Other topics include: animation, mobile device power management, multi-threading, networking and performance considerations.
 
 ## Apple Documents
+[Apple Developer Documentation](https://developer.apple.com/documentation)
+
 [SWIFT.ORG](https://swift.org)
 - [Swift Programming Language](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)
 - [Swift API Guidelines](https://swift.org/documentation/api-design-guidelines)
