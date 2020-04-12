@@ -19,6 +19,10 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
  [Code With Chris](https://codewithchris.com) [![](art/play.png?raw=true)](https://www.youtube.com/channel/UC2D6eRvCeMtcF5OGHf1-trw)
  - [The 7 Day App Action Plan](https://codewithchris.com/actionplan)
 
+ [Cornell](https://www.youtube.com/channel/UCUDPjOx1yPRGxsO6AFtBZSg) [![](art/play.png?raw=true)](https://youtu.be/wwjqigjVNaA)
+
+ Brian Advent [![](art/play.png?raw=true)](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+
 ## Lectures
 Lecture | Slides | Code | Video | Date
 | ------------- | ------------- | ------------- | ------------- | ------------- |
