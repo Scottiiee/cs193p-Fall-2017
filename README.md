@@ -22,6 +22,8 @@ This course is described as being updated for iOS 11 and Swift 4, Tools, and API
  [Cornell](https://www.youtube.com/channel/UCUDPjOx1yPRGxsO6AFtBZSg) [![](art/play.png?raw=true)](https://youtu.be/wwjqigjVNaA)
 
  Brian Advent [![](art/play.png?raw=true)](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
+ 
+ [Ray Wenderlich](https://www.raywenderlich.com/) [![](art/play.png?raw=true)](https://www.youtube.com/user/rwenderlich)
 
 ## Lectures
 Lecture | Slides | Code | Video | Date
